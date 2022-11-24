@@ -37,6 +37,9 @@ header nav ul li a{
     border: 2px solid black;
     border-radius: 5px;
 }
+.container .target img {
+    width: 300px;
+}
 footer{
     margin-top: 40px;
     background-color: rgb(196, 196, 196);

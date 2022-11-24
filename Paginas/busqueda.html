@@ -27,15 +27,13 @@
     </header>
     <main>
         <div class="div-busqueda">
-
             <h3>Busca Tu Restaurante</h3>
+            <div class="inputs">
+                <input type="text" class="main-input" id="nombre">
+                <input type="button" value="Buscar" class="boton" onclick="buscarRestaurante()">
+            </div>
         </div>
-        <nav>
-            <ul>
-            <li><input type="text"> </li>
-            <li><button>Buscar</button></li>
-            </ul>
-        </nav>
+        <div class="resultado"></div>
     </main>
     <footer>
         <div>
@@ -43,6 +41,6 @@
             <p>TW: @RafaelDGsus</p>
         </div>
     </footer>
-    
+    <script src="../codigos/busqueda.js"></script>
 </body>
 </html>

@@ -1,8 +1,32 @@
+main {
+    height: 260px;
+    display: flex;
+    justify-content: space-between;
+}
 .div-busqueda{
+    margin-left: 30px;
     margin-top: 40px;
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
-main nav ul li{
-    margin-top: 60px;
+main div .inputs {
+    display: flex;
+    flex-direction: column;
+    width: 230px;
+    height: 80px;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+main div .inputs .boton {
+    width: 50px;
+}
+main .resultado {
+    height: 260px;
+    margin-top: 20px;
+    margin-right: 70px;
+    border: 2px solid #000;
+    border-radius: 8px;
+}
+main .resultado img {
+    width: 300px;
 }
