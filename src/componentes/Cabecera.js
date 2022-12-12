@@ -5,7 +5,7 @@ function Cebecera() {
     return (
         <header>
             <div>
-                <img src="../imagen/06.png" alt="Logo restaurante" />
+                <img src="../imagenes/logo.jpeg" alt="Logo restaurante" />
             </div>
             <div>
                 <h1>App restaurant</h1>

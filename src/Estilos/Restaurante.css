@@ -2,7 +2,7 @@
     width: 320px;
     display: flex;
     flex-direction: column;
-    background-color: rgba(255, 191, 148, 0.959);
+    /* background-color: rgba(255, 191, 148, 0.959); */
     border: 1px solid black; 
     border-radius: 20px ;
     margin: 10px 10px;

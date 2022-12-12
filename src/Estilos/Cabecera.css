@@ -4,7 +4,7 @@ header {
   height: 230px;
   display: flex;
   align-items: center;
-  background-color:rgba(207, 87, 87, 0.986) ;
+  background-color:rgb(71, 160, 233);
 }
 header div {
   width: 300px;
