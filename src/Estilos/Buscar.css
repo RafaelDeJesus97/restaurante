@@ -1,0 +1,9 @@
+#buscar-container {
+    margin-left: 20px;
+}
+.main-buscar .buscar{
+    width: 300px; 
+    border-radius: 14px; 
+    height: 30px;
+    margin-right: 10px;
+}

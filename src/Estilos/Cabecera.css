@@ -1,0 +1,24 @@
+header { 
+  width: 100%;
+  color: white;
+  height: 230px;
+  display: flex;
+  align-items: center;
+  background-color:rgba(207, 87, 87, 0.986) ;
+}
+header div {
+  width: 300px;
+}
+header div img {
+  width: 215px;
+}
+header nav ul {
+  width: 330px;
+  display: flex;
+  list-style: none;
+}  
+header nav ul li a {
+  padding-right: 20px;
+  text-decoration: none;
+  color: white; 
+}
